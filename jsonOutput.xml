@@ -1,1 +1,1 @@
-<root><type>object</type><properties><firstName><type>string</type></firstName><age><description>Age in years</description><type>integer</type><minimum>0</minimum></age></properties><required></required></root>
+<root><type>object</type><properties><firstName><type>string</type></firstName><age><description>Age in years</description><type>integer</type><minimum>0</minimum></age></properties><required><required>firstName</required><required>lastName</required></required></root>
